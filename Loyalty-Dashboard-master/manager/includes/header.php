@@ -1,3 +1,8 @@
+
+<?php
+    include('../shared/config.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
